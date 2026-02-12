@@ -38,7 +38,7 @@ function App() {
       </table>
 
       <div className="footer">
-        © 2026 Royal Timetable
+        © 2026  Timetable
       </div>
     </div>
   );
